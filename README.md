@@ -1,2 +1,0 @@
-# kuwala
-Practice only
